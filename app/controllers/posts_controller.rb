@@ -3,5 +3,5 @@ class PostsController < ApplicationController
   def index
   end
   
-  def ac
+  def acs
 end
