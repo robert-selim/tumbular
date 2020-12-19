@@ -2,6 +2,6 @@ class PostsController < ApplicationController
 
   def index
   end
-  xcsxdeefxwvasaas
+  xcsxdeefxwvasaasx
   def acsaxcxwcq
 end
